@@ -1,0 +1,7 @@
+{
+  "name": "VL Interiors — Luxury Living",
+  "description": "A premium, high-end interior design portfolio website featuring sophisticated residential transformations and bespoke living environments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
